@@ -2,7 +2,7 @@
 
 This project is a clone of a famous chrome extension 'momentum'.
 
-Running live here: https://sarthakpandey.github.io/dynamicLanding/index.html
+Running live here: https://sarthakpandey.github.io/dynamicLanding
 
 ### `How to set up?`
 
